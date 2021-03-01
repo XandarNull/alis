@@ -1,7 +1,7 @@
 ## alis
 
 # short link "http://tiny.cc/xandar"
-<curl -sL http://tiny.cc/xandar | bash>
+'curl -sL http://tiny.cc/xandar | bash'
 
 Arch Linux Install Script (or alis) installs unattended, automated and customized Arch Linux system.
 
